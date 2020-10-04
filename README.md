@@ -7,3 +7,7 @@
 ### HW6: Adversarial Attack
 ### HW8: Seq2seq
 ### HW9: Unsupervised Learning (Autoencoder + Clustering)
+
+### HW10: Anomaly Detection (Autoencoder + Clustering)
+
+### HW12: Transfer Learning (DANN)
