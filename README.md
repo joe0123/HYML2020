@@ -1,5 +1,5 @@
 # Machine Learning 2020
-> Homework of Machine Learning (Lectured by Hung-yi Lee)
+> Homework of Machine Learning (Lectured by Hung-yi, Lee)
 
 ## HW01: Regression
 https://docs.google.com/presentation/d/18MG1wSTTx8AentGnMfIRUp8ipo8bLpgAj16bJoqW-b0/
